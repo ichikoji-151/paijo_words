@@ -1,2 +1,3 @@
 # ぱいじょから学ぶエンジニア用語
 Github pagesを用いてサイトを公開しています。
+- [paijo](/paijo.md)
