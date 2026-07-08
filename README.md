@@ -1,6 +1,6 @@
 # ぱいじょから学ぶエンジニア用語
 
-link:https://ichikoji-151.github.io/paijo_words/
+link:[Github Pagesのリンク](https://ichikoji-151.github.io/Paijo_Words/)
 - [Paijo](/paijo.md)
 
 (https://github.com/ichikoji-151/paijo_words/blob/main/image/Pasted%20image%2020260708132156.png)
